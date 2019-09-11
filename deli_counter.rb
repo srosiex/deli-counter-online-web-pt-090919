@@ -8,7 +8,4 @@ if x == 0
 end
 
 end
-line(katz_deli)
-
-
-  
+line(x)
