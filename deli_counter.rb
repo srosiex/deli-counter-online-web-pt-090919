@@ -1,11 +1,10 @@
 katz_deli = []
 
-def line(x)
-  line_array = []
-if x.length == 0
-  puts "The line is currently empty."
-# else x.length
-end
+katz_deli = []
 
+def line_method(numinline)
+  line_method_array = []
+  if numinline.length == 0
+    puts "The line is currently empty."
+  end
 end
-line(x)
