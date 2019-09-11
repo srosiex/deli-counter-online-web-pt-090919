@@ -1,8 +1,8 @@
 # Write your code here.
-def deli_counter
-  line = []
-if line == 0
-  puts "the line is empty"
+katz_deli = []
+def line(katz_deli)
+if katz_deli == 0
+  puts "The line is currently empty."
 end
 end
 deli_counter(line)
