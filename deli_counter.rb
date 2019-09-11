@@ -8,3 +8,4 @@ def line_method(numinline)
     puts "The line is currently empty."
   end
 end
+def line_method(numinline)
